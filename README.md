@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @lalbear
-- 👀 I’m interested in computer science
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on python project
+![](https://leetcard.jacoblin.cool/lalbear?ext=heatmap)
 
 <!---
 lalbear/lalbear is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

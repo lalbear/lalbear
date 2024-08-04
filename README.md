@@ -1,4 +1,4 @@
-![](https://leetcard.jacoblin.cool/lalbear?ext=heatmap)
+![](https://leetcard.jacoblin.cool/Pranjalup?ext=heatmap)
 
 <!---
 lalbear/lalbear is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
